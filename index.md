@@ -1,3 +1,5 @@
+**For any issues with the Yamim Noraim Machzor app, please send an email to noam.annenberg@gmail.com**
+
 **Privacy Policy**
 
 Noam Annenberg built the Yamim Noraim Machzor app as a Free app. This SERVICE is provided by Noam Annenberg at no cost and is intended for use as is.
